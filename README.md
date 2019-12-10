@@ -12,5 +12,5 @@ Libraries used are
 2. xlsxwriter
 3. Numpy
 
-Python version used is 3.7
+Python version used is 3.7.
 Devlopment IDE is using Jupyter Notebook
